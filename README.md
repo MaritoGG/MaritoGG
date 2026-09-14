@@ -201,19 +201,6 @@ proyectos y soluciones.
 
 ---
 
-## 💼 Experiencia
-
-### 🏢 BARIANZA
-
-**Programador & Soporte TI**
-
-`Agosto 2026 – Actualidad`
-
-Actualmente trabajo en BARIANZA combinando **desarrollo de software y soporte en TI**, aplicando conocimientos tanto de
-programación como de sistemas y resolución de problemas técnicos.
-
----
-
 ## 🚀 Proyecto destacado
 
 ### 🎯 Simulación de Entrenamiento Militar
@@ -238,23 +225,6 @@ proyecto.
 
 > 🔒 **Proyecto confidencial:** por motivos de privacidad y seguridad, el
 > código fuente y determinados detalles técnicos no pueden hacerse públicos.
-
----
-
-## 🎮 Más allá del código
-
-La informática es una de mis grandes pasiones, pero no la única.
-
-Cuando no estoy desarrollando, me gusta:
-
-- 🎮 Disfrutar del gaming
-- 🏆 Hacer deporte y entrenar
-- 🤖 Explorar tecnologías relacionadas con IA
-- 🚗 Realizar planes y quedadas con amigos
-
-Me considero una persona **competitiva, curiosa y orientada al aprendizaje
-continuo**, y disfruto especialmente trabajando en equipo y compartiendo
-conocimientos.
 
 ---
 
